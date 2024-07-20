@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\card_task.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\card_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\fragment_add_task.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\fragment_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\fragment_selection.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\fragment_selection.xml"
+    },
+    {
+        "merged": "com.example.noteapp-mergeDebugResources-63:/layout/fragment_quiz.xml",
+        "source": "com.example.noteapp-main-66:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\fragment_quiz.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\fragment_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\fragment_edit_task.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\fragment_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-mergeDebugResources-63:\\layout\\item_quiz_question.xml",
+        "source": "C:\\Users\\HEHE\\.gradle\\daemon\\8.4\\com.example.noteapp-main-66:\\layout\\item_quiz_question.xml"
+    }
+]

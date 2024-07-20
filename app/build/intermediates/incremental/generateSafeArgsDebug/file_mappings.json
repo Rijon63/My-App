@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_nav.xml","javaFiles":["com.example.noteapp.ui.fragments.SelectionFragmentDirections","com.example.noteapp.ui.fragments.HomeFragmentDirections","com.example.noteapp.ui.fragments.AddTaskFragmentDirections","com.example.noteapp.ui.fragments.EditTaskFragmentDirections","com.example.noteapp.ui.fragments.EditTaskFragmentArgs"]}]
